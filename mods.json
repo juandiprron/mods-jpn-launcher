@@ -10,6 +10,51 @@
     "url": "https://raw.githubusercontent.com/juandiprron/mods-jpn-launcher/main/mods/CreativeCore_FABRIC_v2.12.41_mc1.20.1.jar"
   },
   {
+    "name": "Forge Config API Port",
+    "filename": "ForgeConfigAPIPort-v8.0.3-fabric.jar",
+    "url": "https://raw.githubusercontent.com/juandiprron/mods-jpn-launcher/main/mods/ForgeConfigAPIPort-v8.0.3-fabric.jar"
+  },
+  {
+    "name": "Iceberg",
+    "filename": "Iceberg-1.20.1-Fabric-1.1.25.jar",
+    "url": "https://raw.githubusercontent.com/juandiprron/mods-jpn-launcher/main/mods/Iceberg-1.20.1-Fabric-1.1.25.jar"
+  },
+  {
+    "name": "ImmediatelyFast",
+    "filename": "ImmediatelyFast-Fabric-1.5.jar",
+    "url": "https://raw.githubusercontent.com/juandiprron/mods-jpn-launcher/main/mods/ImmediatelyFast-Fabric-1.5.jar"
+  },
+  {
+    "name": "ItemBorders",
+    "filename": "ItemBorders-1.20.1-Fabric.jar",
+    "url": "https://raw.githubusercontent.com/juandiprron/mods-jpn-launcher/main/mods/ItemBorders-1.20.1-Fabric.jar"
+  },
+  {
+    "name": "Loot Beams Refork",
+    "filename": "Loot Beams Refork-Fabric.jar",
+    "url": "https://raw.githubusercontent.com/juandiprron/mods-jpn-launcher/main/mods/Loot Beams Refork-Fabric.jar"
+  },
+  {
+    "name": "Multiworld",
+    "filename": "Multiworld-Fabric-bundle.jar",
+    "url": "https://raw.githubusercontent.com/juandiprron/mods-jpn-launcher/main/mods/Multiworld-Fabric-bundle.jar"
+  },
+  {
+    "name": "Nirvana Lib",
+    "filename": "Nirvana Lib-fabric-1.20.1-2.jar",
+    "url": "https://raw.githubusercontent.com/juandiprron/mods-jpn-launcher/main/mods/Nirvana Lib-fabric-1.20.1-2.jar"
+  },
+  {
+    "name": "Pehkui",
+    "filename": "Pehkui-3.8.3+1.14.4-1.21.jar",
+    "url": "https://raw.githubusercontent.com/juandiprron/mods-jpn-launcher/main/mods/Pehkui-3.8.3+1.14.4-1.21.jar"
+  },
+  {
+    "name": "Prism",
+    "filename": "Prism-1.20.1-fabric-1.0.5.jar",
+    "url": "https://raw.githubusercontent.com/juandiprron/mods-jpn-launcher/main/mods/Prism-1.20.1-fabric-1.0.5.jar"
+  },
+  {
     "name": "Architectury API",
     "filename": "architectury-9.2.14-fabric.jar",
     "url": "https://raw.githubusercontent.com/juandiprron/mods-jpn-launcher/main/mods/architectury-9.2.14-fabric.jar"
@@ -30,9 +75,14 @@
     "url": "https://raw.githubusercontent.com/juandiprron/mods-jpn-launcher/main/mods/dynamic-fps-3.11.4+minecraft-1.20.0-fabric.jar"
   },
   {
-    "name": "Fabric API 0.92.12",
+    "name": "Fabric API",
     "filename": "fabric-api-0.92.12+1.20.1.jar",
     "url": "https://raw.githubusercontent.com/juandiprron/mods-jpn-launcher/main/mods/fabric-api-0.92.12+1.20.1.jar"
+  },
+  {
+    "name": "Fabric API (Extra)",
+    "filename": "fabric-api-0.92.6+1.11.15+1.20.1.jar",
+    "url": "https://raw.githubusercontent.com/juandiprron/mods-jpn-launcher/main/mods/fabric-api-0.92.6+1.11.15+1.20.1.jar"
   },
   {
     "name": "Fabric Language Kotlin",
@@ -42,11 +92,84 @@
   {
     "name": "Fancy Entity Renderer",
     "filename": "fancy-entity-renderer-fabric-1.20.1-0.4.6.jar",
-    "url": "https://raw.githubusercontent.com/juandiprron/mods-jpn-launcher/main/mods/fancy-entity-renderer-fabric-1.20.1-0.4.6.jar" 
+    "url": "https://raw.githubusercontent.com/juandiprron/mods-jpn-launcher/main/mods/fancy-entity-renderer-fabric-1.20.1-0.4.6.jar"
   },
   {
-    "name": "Custom Skin Loader",
-    "filename": "customskinloader_universal-15.1.jar",
-    "url": "https://raw.githubusercontent.com/juandiprron/mods-jpn-launcher/main/mods/customskinloader_universal-15.1.jar"
-  }
-]
+    "name": "FerriteCore",
+    "filename": "ferritecore-6.0.1-fabric.jar",
+    "url": "https://raw.githubusercontent.com/juandiprron/mods-jpn-launcher/main/mods/ferritecore-6.0.1-fabric.jar"
+  },
+  {
+    "name": "Fzy Config",
+    "filename": "fzy_config-0.7.7+1.20.1.jar",
+    "url": "https://raw.githubusercontent.com/juandiprron/mods-jpn-launcher/main/mods/fzy_config-0.7.7+1.20.1.jar"
+  },
+  {
+    "name": "iCommon",
+    "filename": "iCommon-Fabric-bundle.jar",
+    "url": "https://raw.githubusercontent.com/juandiprron/mods-jpn-launcher/main/mods/iCommon-Fabric-bundle.jar"
+  },
+  {
+    "name": "Immersive Paintings",
+    "filename": "immersive_paintings-0.6.13+1.20.1-fabric.jar",
+    "url": "https://raw.githubusercontent.com/juandiprron/mods-jpn-launcher/main/mods/immersive_paintings-0.6.13+1.20.1-fabric.jar"
+  },
+  {
+    "name": "Iris Shaders",
+    "filename": "iris-1.7.6+mc1.20.1.jar",
+    "url": "https://raw.githubusercontent.com/juandiprron/mods-jpn-launcher/main/mods/iris-1.7.6+mc1.20.1.jar"
+  },
+  {
+    "name": "Just Enough Items (JEI)",
+    "filename": "jei-1.20.1-fabric-15.62.0.219.jar",
+    "url": "https://raw.githubusercontent.com/juandiprron/mods-jpn-launcher/main/mods/jei-1.20.1-fabric-15.62.0.219.jar"
+  },
+  {
+    "name": "Konkrete",
+    "filename": "konkrete_fabric_1.8.1_MC_1.20.1.jar",
+    "url": "https://raw.githubusercontent.com/juandiprron/mods-jpn-launcher/main/mods/konkrete_fabric_1.8.1_MC_1.20.1.jar"
+  },
+  {
+    "name": "KubeJS",
+    "filename": "kubejs-fabric-2001.6.5-build.26.jar",
+    "url": "https://raw.githubusercontent.com/juandiprron/mods-jpn-launcher/main/mods/kubejs-fabric-2001.6.5-build.26.jar"
+  },
+  {
+    "name": "LambDynamicLights",
+    "filename": "lambdynamiclights-4.4.0+1.20.1.jar",
+    "url": "https://raw.githubusercontent.com/juandiprron/mods-jpn-launcher/main/mods/lambdynamiclights-4.4.0+1.20.1.jar"
+  },
+  {
+    "name": "Lithium",
+    "filename": "lithium-fabric-mc1.20.1-0.11.4.jar",
+    "url": "https://raw.githubusercontent.com/juandiprron/mods-jpn-launcher/main/mods/lithium-fabric-mc1.20.1-0.11.4.jar"
+  },
+  {
+    "name": "Melody",
+    "filename": "melody_fabric_1.0.4_MC_1.20.1-1.20.4.jar",
+    "url": "https://raw.githubusercontent.com/juandiprron/mods-jpn-launcher/main/mods/melody_fabric_1.0.4_MC_1.20.1-1.20.4.jar"
+  },
+  {
+    "name": "Mezz Config",
+    "filename": "mezz_config-1.20.1-fabric-0.6.8.jar",
+    "url": "https://raw.githubusercontent.com/juandiprron/mods-jpn-launcher/main/mods/mezz_config-1.20.1-fabric-0.6.8.jar"
+  },
+  {
+    "name": "ModernFix",
+    "filename": "modermfix-fabric-5.25.2+mc1.20.1.jar",
+    "url": "https://raw.githubusercontent.com/juandiprron/mods-jpn-launcher/main/mods/modermfix-fabric-5.25.2+mc1.20.1.jar"
+  },
+  {
+    "name": "Mod Menu",
+    "filename": "modmenu-7.2.2.jar",
+    "url": "https://raw.githubusercontent.com/juandiprron/mods-jpn-launcher/main/mods/modmenu-7.2.2.jar"
+  },
+  {
+    "name": "Reese's Sodium Options",
+    "filename": "reeses_sodium_options-1.7.2+mc1.20.1-build.101.jar",
+    "url": "https://raw.githubusercontent.com/juandiprron/mods-jpn-launcher/main/mods/reeses_sodium_options-1.7.2+mc1.20.1-build.101.jar"
+  },
+  {
+    "name": "Rhino",
+    "filename": "rhino-fabric-2001.2.3-build.10.jar",
+    "url": "
