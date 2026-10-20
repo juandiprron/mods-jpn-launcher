@@ -10,6 +10,16 @@
     "url": "https://raw.githubusercontent.com/juandiprron/mods-jpn-launcher/main/mods/CreativeCore_FABRIC_v2.12.41_mc1.20.1.jar"
   },
   {
+    "name": "Forge Config API Port",
+    "filename": "ForgeConfigAPIPort-v8.0.3-1.20.1-Fabric.jar",
+    "url": "https://raw.githubusercontent.com/juandiprron/mods-jpn-launcher/main/mods/ForgeConfigAPIPort-v8.0.3-1.20.1-Fabric.jar"
+  },
+  {
+    "name": "Iceberg",
+    "filename": "Iceberg-1.20.1-Fabric-1.1.25.jar",
+    "url": "https://raw.githubusercontent.com/juandiprron/mods-jpn-launcher/main/mods/Iceberg-1.20.1-Fabric-1.1.25.jar"
+  }
+  {
     "name": "ImmediatelyFast",
     "filename": "ImmediatelyFast-Fabric-1.5.5+1.20.4.jar",
     "url": "https://raw.githubusercontent.com/juandiprron/mods-jpn-launcher/main/mods/ImmediatelyFast-Fabric-1.5.5+1.20.4.jar"
