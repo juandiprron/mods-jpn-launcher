@@ -42,6 +42,11 @@
   {
     "name": "Fancy Entity Renderer",
     "filename": "fancy-entity-renderer-fabric-1.20.1-0.4.6.jar",
-    "url": "https://raw.githubusercontent.com/juandiprron/mods-jpn-launcher/main/mods/fancy-entity-renderer-fabric-1.20.1-0.4.6.jar"
+    "url": "https://raw.githubusercontent.com/juandiprron/mods-jpn-launcher/main/mods/fancy-entity-renderer-fabric-1.20.1-0.4.6.jar" 
+  },
+  {
+    "name": "Fancy Entity Renderer",
+    "filename": "fancy-entity-renderer-fabric-1.20.1-0.4.6.jar",
+    "url": "https://raw.githubusercontent.com/juandiprron/mods-jpn-launcher/main/mods/customskinloader_universal-15.1.jar"
   }
 ]
