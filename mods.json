@@ -1,7 +1,47 @@
 [
   {
-    "name": "jpn_prueba_mod",
-    "filename": "jpn_prueba_mod.jar",
-    "url": "https://raw.githubusercontent.com/juandiprron/mods-jpn-launcher/main/mods/jpn_prueba_mod.jar"
+    "name": "CMDCam Fabric",
+    "filename": "CMDCam-Fabric.jar",
+    "url": "https://raw.githubusercontent.com/juandiprron/mods-jpn-launcher/main/mods/CMDCam-Fabric.jar"
+  },
+  {
+    "name": "CreativeCore",
+    "filename": "CreativeCore_FABRIC_v2.12.41_mc1.20.1.jar",
+    "url": "https://raw.githubusercontent.com/juandiprron/mods-jpn-launcher/main/mods/CreativeCore_FABRIC_v2.12.41_mc1.20.1.jar"
+  },
+  {
+    "name": "Architectury API",
+    "filename": "architectury-9.2.14-fabric.jar",
+    "url": "https://raw.githubusercontent.com/juandiprron/mods-jpn-launcher/main/mods/architectury-9.2.14-fabric.jar"
+  },
+  {
+    "name": "Chat Heads",
+    "filename": "chat_heads-0.15.7-fabric-1.20.jar",
+    "url": "https://raw.githubusercontent.com/juandiprron/mods-jpn-launcher/main/mods/chat_heads-0.15.7-fabric-1.20.jar"
+  },
+  {
+    "name": "Common Networking",
+    "filename": "common-networking-fabric-1.0.6-1.20.1.jar",
+    "url": "https://raw.githubusercontent.com/juandiprron/mods-jpn-launcher/main/mods/common-networking-fabric-1.0.6-1.20.1.jar"
+  },
+  {
+    "name": "Dynamic FPS",
+    "filename": "dynamic-fps-3.11.4+minecraft-1.20.0-fabric.jar",
+    "url": "https://raw.githubusercontent.com/juandiprron/mods-jpn-launcher/main/mods/dynamic-fps-3.11.4+minecraft-1.20.0-fabric.jar"
+  },
+  {
+    "name": "Fabric API 0.92.12",
+    "filename": "fabric-api-0.92.12+1.20.1.jar",
+    "url": "https://raw.githubusercontent.com/juandiprron/mods-jpn-launcher/main/mods/fabric-api-0.92.12+1.20.1.jar"
+  },
+  {
+    "name": "Fabric Language Kotlin",
+    "filename": "fabric-language-kotlin-1.14.1+kotlin.2.4.20.jar",
+    "url": "https://raw.githubusercontent.com/juandiprron/mods-jpn-launcher/main/mods/fabric-language-kotlin-1.14.1+kotlin.2.4.20.jar"
+  },
+  {
+    "name": "Fancy Entity Renderer",
+    "filename": "fancy-entity-renderer-fabric-1.20.1-0.4.6.jar",
+    "url": "https://raw.githubusercontent.com/juandiprron/mods-jpn-launcher/main/mods/fancy-entity-renderer-fabric-1.20.1-0.4.6.jar"
   }
 ]
