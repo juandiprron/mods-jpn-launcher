@@ -172,4 +172,46 @@
   {
     "name": "Rhino",
     "filename": "rhino-fabric-2001.2.3-build.10.jar",
-    "url": "
+    "url": "https://raw.githubusercontent.com/juandiprron/mods-jpn-launcher/main/mods/rhino-fabric-2001.2.3-build.10.jar"
+  },
+  {
+    "name": "Skin Layers 3D",
+    "filename": "skinlayers3d-fabric-1.11.3-mc1.20.1.jar",
+    "url": "https://raw.githubusercontent.com/juandiprron/mods-jpn-launcher/main/mods/skinlayers3d-fabric-1.11.3-mc1.20.1.jar"
+  },
+  {
+    "name": "Sodium",
+    "filename": "sodium-fabric-0.5.13+mc1.20.1.jar",
+    "url": "https://raw.githubusercontent.com/juandiprron/mods-jpn-launcher/main/mods/sodium-fabric-0.5.13+mc1.20.1.jar"
+  },
+  {
+    "name": "Souper Secret Settings",
+    "filename": "souper_secret_settings-1.0.9-mc1.20+.jar",
+    "url": "https://raw.githubusercontent.com/juandiprron/mods-jpn-launcher/main/mods/souper_secret_settings-1.0.9-mc1.20+.jar"
+  },
+  {
+    "name": "Simple Voice Chat",
+    "filename": "voicechat-fabric-1.20.1-2.6.24.jar",
+    "url": "https://raw.githubusercontent.com/juandiprron/mods-jpn-launcher/main/mods/voicechat-fabric-1.20.1-2.6.24.jar"
+  },
+  {
+    "name": "Xaero's Minimap",
+    "filename": "xaerominimap-fabric-1.20.1-26.6.0.jar",
+    "url": "https://raw.githubusercontent.com/juandiprron/mods-jpn-launcher/main/mods/xaerominimap-fabric-1.20.1-26.6.0.jar"
+  },
+  {
+    "name": "Xaero's World Map",
+    "filename": "xaeroworldmap-fabric-1.20.1-1.47.0.jar",
+    "url": "https://raw.githubusercontent.com/juandiprron/mods-jpn-launcher/main/mods/xaeroworldmap-fabric-1.20.1-1.47.0.jar"
+  },
+  {
+    "name": "YetAnotherConfigLib",
+    "filename": "yet_another_config_lib_v3-3.6.6+1.20.1-fabric.jar",
+    "url": "https://raw.githubusercontent.com/juandiprron/mods-jpn-launcher/main/mods/yet_another_config_lib_v3-3.6.6+1.20.1-fabric.jar"
+  },
+  {
+    "name": "Zoomify",
+    "filename": "zoomify-2.15.2+1.20.1.jar",
+    "url": "https://raw.githubusercontent.com/juandiprron/mods-jpn-launcher/main/mods/zoomify-2.15.2+1.20.1.jar"
+  }
+]
