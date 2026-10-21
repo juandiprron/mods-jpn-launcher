@@ -18,10 +18,10 @@
         "mods_url": "https://raw.githubusercontent.com/juandiprron/mods-jpn-launcher/main/vortex_smp_mods.json"
     },   
     {
-        "name": "The Vortex SMP",
-        "folder_name": "vortex_smp",
+        "name": "XD",
+        "folder_name": "xd",
         "locked": false,
-        "mods_url": "https://raw.githubusercontent.com/juandiprron/mods-jpn-launcher/main/vortex_smp_mods.json"
+        "mods_url": "https://raw.githubusercontent.com/juandiprron/mods-jpn-launcher/main/xd_mods.json"
     }
 ]
 
