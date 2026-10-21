@@ -1,9 +1,9 @@
 [
-    {
+{
         "name": "Fancy Menu",
         "filename": "fancymenu_fabric_3.9.14_MC_1.20.1.jar",
-        "url": "https://raw.githubusercontent.com/juandiprron/mods-jpn-launcher/main/shinikai_mods/fancymenu_fabric_3.9.14_MC_1.20.1.jar"
-    },
+        "url": "https://github.com/juandiprron/mods-jpn-launcher/releases/download/mod/fancymenu_fabric_3.9.14_MC_1.20.1.jar"
+    }
     {
         "name": "CMDCam",
         "filename": "CMDCam-fabric.jar",
