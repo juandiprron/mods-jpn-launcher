@@ -8,13 +8,13 @@
     {
         "name": "BINGO VS.",
         "folder_name": "bingo_vs",
-        "locked": true,
+        "locked": false,
         "mods_url": "https://raw.githubusercontent.com/juandiprron/mods-jpn-launcher/main/bingo_mods.json"
     }, 
     {
         "name": "The Vortex SMP",
         "folder_name": "vortex_smp",
-        "locked": true,
+        "locked": false,
         "mods_url": "https://raw.githubusercontent.com/juandiprron/mods-jpn-launcher/main/vortex_smp_mods.json"
     },
 ]
