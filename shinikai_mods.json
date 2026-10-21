@@ -210,8 +210,23 @@
         "url": "https://raw.githubusercontent.com/juandiprron/mods-jpn-launcher/main/mods/xaerominimap-fabric-1.20.1-26.6.0.jar"
     },
     {
+        "name": "Fabric API",
+        "filename": "fabric-api-0.92.12+1.20.1.jar",
+        "url": "https://raw.githubusercontent.com/juandiprron/mods-jpn-launcher/main/mods/fabric-api-0.92.12+1.20.1.jar"
+    },
+    {
+        "name": "Konkrete",
+        "filename": "konkrete_fabric_1.8.1_MC_1.20.1.jar",
+        "url": "https://raw.githubusercontent.com/juandiprron/mods-jpn-launcher/main/mods/konkrete_fabric_1.8.1_MC_1.20.1.jar"
+    },
+    {
         "name": "Fancy Menu",
         "filename": "fancymenu_fabric_3.9.14_MC_1.20.1.jar",
         "url": "https://github.com/juandiprron/mods-jpn-launcher/releases/download/mod/fancymenu_fabric_3.9.14_MC_1.20.1.jar"
+    },
+    {
+        "name": "Melody",
+        "filename": "melody_fabric_1.0.4_MC_1.20.1-1.20.4.jar",
+        "url": "https://raw.githubusercontent.com/juandiprron/mods-jpn-launcher/main/mods/melody_fabric_1.0.4_MC_1.20.1-1.20.4.jar"
     }
 ]
