@@ -4,5 +4,11 @@
         "folder_name": "jpn_shinikai",
         "locked": false,
         "mods_url": "https://raw.githubusercontent.com/juandiprron/mods-jpn-launcher/main/shinikai_mods.json"
+    },
+    {
+        "name": "BINGO Vs.",
+        "folder_name": "bingovs",
+        "locked": true,
+        "mods_url": "https://raw.githubusercontent.com/juandiprron/mods-jpn-launcher/main/bingo_mods.json"
     }
 ]
