@@ -3,6 +3,7 @@
         "name": "JPN SHINIKAI",
         "folder_name": "jpn_shinikai",
         "locked": false,
-        "mods_url": "https://raw.githubusercontent.com/juandiprron/mods-jpn-launcher/main/shinikai_mods.json"
+        "mods_url": "https://raw.githubusercontent.com/juandiprron/mods-jpn-launcher/main/shinikai_mods.json",
+        "instance_zip_url": "https://github.com/juandiprron/mods-jpn-launcher/raw/main/instances/jpn_shinikai.zip"
     }
 ]
