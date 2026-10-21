@@ -3,12 +3,12 @@
         "name": "JPN SHINIKAI",
         "folder_name": "jpn_shinikai",
         "locked": false,
-        "mods_url": "https://raw.githubusercontent.com/juandiprron/mods-jpn-launcher/main/shinikai_mods.json"
+        "mods_url": "https://raw.githubusercontent.com/juandiprron/mods-jpn-launcher/main/jpn_shinikai_mods.json"
     },
     {
-        "name": "NOMBRE DE TU NUEVA INSTANCIA",
-        "folder_name": "carpeta_nueva",
-        "locked": false,
-        "mods_url": "https://raw.githubusercontent.com/juandiprron/mods-jpn-launcher/main/tu_nuevo_mod_list.json"
+        "name": "BINGO VS.",
+        "folder_name": "bingo_vs",
+        "locked": true,
+        "mods_url": "https://raw.githubusercontent.com/juandiprron/mods-jpn-launcher/main/bingo_mods.json"
     }
 ]
