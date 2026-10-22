@@ -5,11 +5,6 @@
         "url": "https://github.com/juandiprron/mods-jpn-launcher/releases/download/mod/fancymenu_fabric_3.9.14_MC_1.20.1.jar"
     },
     {
-        "name": "CMDCam",
-        "filename": "CMDCam-fabric.jar",
-        "url": "https://raw.githubusercontent.com/juandiprron/mods-jpn-launcher/main/shinikai_mods/CMDCam-fabric.jar"
-    },
-    {
         "name": "Creative Core",
         "filename": "CreativeCore_FABRIC_v2.12.41_mc1.20.1.jar",
         "url": "https://raw.githubusercontent.com/juandiprron/mods-jpn-launcher/main/shinikai_mods/CreativeCore_FABRIC_v2.12.41_mc1.20.1.jar"
@@ -128,11 +123,6 @@
         "name": "KubeJS",
         "filename": "kubejs-fabric-2001.6.5-build.26.jar",
         "url": "https://raw.githubusercontent.com/juandiprron/mods-jpn-launcher/main/shinikai_mods/kubejs-fabric-2001.6.5-build.26.jar"
-    },
-    {
-        "name": "Lambda Dynamic Lights",
-        "filename": "lambdadynamiclights-4.4.0+1.20.1.jar",
-        "url": "https://raw.githubusercontent.com/juandiprron/mods-jpn-launcher/main/shinikai_mods/lambdadynamiclights-4.4.0+1.20.1.jar"
     },
     {
         "name": "Lithium",
